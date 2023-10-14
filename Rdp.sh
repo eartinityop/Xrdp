@@ -38,3 +38,4 @@ clear
     service xrdp restart
     clear
     echo -e "${GREEN}RDP Created And Started on Port $selectedPort"
+fi
